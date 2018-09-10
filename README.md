@@ -8,8 +8,8 @@ Preparation: Download 8 images of your favorite bands. Rename to [Band Name].jpg
 
 3) Add UIImage to DetailViewController
 
-  View Mode: Aspect Fit
-  Create Outlet, Name: productImageView
+   - View Mode: Aspect Fit
+   - Create Outlet, Name: productImageView
   
 4)Create New Group named Images and add the images you downloaded during preparation
 
