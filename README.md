@@ -1,6 +1,6 @@
 MyBands
 
-Preparation: Download 8 images of your favorite bands. Rename to [Band Name].jpg
+Preparation: Download 8 images of your favorite bands. Rename to [Band Name].jpg (or.png)
 
 1) Create new Master/Detail Universal Project (No CoreData)
 
@@ -10,6 +10,8 @@ Preparation: Download 8 images of your favorite bands. Rename to [Band Name].jpg
 
    - View Mode: Aspect Fit
    - Create Outlet, Name: productImageView
+   - Select "Detail" icon 
+   = Select Editor > Resolve Auto Layout Issues > Reset to Suggested Constraints
   
 4)Create New Group named Images and add the images you downloaded during preparation
 
