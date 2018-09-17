@@ -10,11 +10,10 @@ Preparation: Download 8 images of your favorite bands. Rename to [Band Name].jpg
 
    - View Mode: Aspect Fit
    - Create Outlet, Name: productImageView
-   - Select "Detail" icon 
-   = Select Editor > Resolve Auto Layout Issues > Reset to Suggested Constraints
-   ![alt text](format.png "layout")
+   - Select Detail icon 
+     ![alt text](format.png "layout")
+   - Select Editor > Resolve Auto Layout Issues > Reset to Suggested Constraints
    
-  
 4)Create New Group named Images and add the images you downloaded during preparation
 
 5)Follow Instructions in Comments on MasterViewController.swift.txt
