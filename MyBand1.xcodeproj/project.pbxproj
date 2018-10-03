@@ -7,20 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F594CBB2165434100F5D2F0 /* Def Leppard.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F594CB32165434100F5D2F0 /* Def Leppard.jpeg */; };
+		0F594CBC2165434100F5D2F0 /* Fleetwood Mac.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F594CB42165434100F5D2F0 /* Fleetwood Mac.jpeg */; };
+		0F594CBD2165434100F5D2F0 /* Pink Floyd.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F594CB52165434100F5D2F0 /* Pink Floyd.jpeg */; };
+		0F594CBE2165434100F5D2F0 /* The Cars.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F594CB62165434100F5D2F0 /* The Cars.jpeg */; };
+		0F594CBF2165434100F5D2F0 /* Van Halen.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F594CB72165434100F5D2F0 /* Van Halen.jpeg */; };
+		0F594CC02165434100F5D2F0 /* The Beatles.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F594CB82165434100F5D2F0 /* The Beatles.jpeg */; };
+		0F594CC12165434100F5D2F0 /* AC DC.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F594CB92165434100F5D2F0 /* AC DC.jpeg */; };
+		0F594CC22165434100F5D2F0 /* Journey.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F594CBA2165434100F5D2F0 /* Journey.jpeg */; };
 		904D475D1F82D7A6008D61B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D475C1F82D7A6008D61B2 /* AppDelegate.swift */; };
 		904D475F1F82D7A6008D61B2 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D475E1F82D7A6008D61B2 /* MasterViewController.swift */; };
 		904D47611F82D7A6008D61B2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D47601F82D7A6008D61B2 /* DetailViewController.swift */; };
 		904D47641F82D7A6008D61B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 904D47621F82D7A6008D61B2 /* Main.storyboard */; };
 		904D47661F82D7A6008D61B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 904D47651F82D7A6008D61B2 /* Assets.xcassets */; };
 		904D47691F82D7A6008D61B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 904D47671F82D7A6008D61B2 /* LaunchScreen.storyboard */; };
-		904D47811F82DBBB008D61B2 /* 38 Special.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47711F82DBBB008D61B2 /* 38 Special.jpg */; };
 		904D47821F82DBBB008D61B2 /* 45647127.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47721F82DBBB008D61B2 /* 45647127.jpg */; };
-		904D47831F82DBBB008D61B2 /* Band Perry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47731F82DBBB008D61B2 /* Band Perry.jpg */; };
-		904D47841F82DBBB008D61B2 /* Eagles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47741F82DBBB008D61B2 /* Eagles.jpg */; };
-		904D47851F82DBBB008D61B2 /* Joe Cocker.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47751F82DBBB008D61B2 /* Joe Cocker.jpg */; };
-		904D47861F82DBBB008D61B2 /* Journey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47761F82DBBB008D61B2 /* Journey.jpg */; };
-		904D47871F82DBBB008D61B2 /* Leonard Skynard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47771F82DBBB008D61B2 /* Leonard Skynard.jpg */; };
-		904D47881F82DBBB008D61B2 /* Little Big Town.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47781F82DBBB008D61B2 /* Little Big Town.jpg */; };
 		904D47891F82DBBB008D61B2 /* logo76.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D47791F82DBBB008D61B2 /* logo76.png */; };
 		904D478A1F82DBBB008D61B2 /* logo152.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477A1F82DBBB008D61B2 /* logo152.png */; };
 		904D478B1F82DBBB008D61B2 /* logo291.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477B1F82DBBB008D61B2 /* logo291.png */; };
@@ -28,10 +29,17 @@
 		904D478D1F82DBBB008D61B2 /* logo401.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477D1F82DBBB008D61B2 /* logo401.png */; };
 		904D478E1F82DBBB008D61B2 /* logo402.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477E1F82DBBB008D61B2 /* logo402.png */; };
 		904D478F1F82DBBB008D61B2 /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477F1F82DBBB008D61B2 /* Main.png */; };
-		904D47901F82DBBB008D61B2 /* Miranda Lambert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47801F82DBBB008D61B2 /* Miranda Lambert.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F594CB32165434100F5D2F0 /* Def Leppard.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Def Leppard.jpeg"; sourceTree = "<group>"; };
+		0F594CB42165434100F5D2F0 /* Fleetwood Mac.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fleetwood Mac.jpeg"; sourceTree = "<group>"; };
+		0F594CB52165434100F5D2F0 /* Pink Floyd.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pink Floyd.jpeg"; sourceTree = "<group>"; };
+		0F594CB62165434100F5D2F0 /* The Cars.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Cars.jpeg"; sourceTree = "<group>"; };
+		0F594CB72165434100F5D2F0 /* Van Halen.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Van Halen.jpeg"; sourceTree = "<group>"; };
+		0F594CB82165434100F5D2F0 /* The Beatles.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Beatles.jpeg"; sourceTree = "<group>"; };
+		0F594CB92165434100F5D2F0 /* AC DC.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "AC DC.jpeg"; sourceTree = "<group>"; };
+		0F594CBA2165434100F5D2F0 /* Journey.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Journey.jpeg; sourceTree = "<group>"; };
 		904D47591F82D7A6008D61B2 /* MyBand1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyBand1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		904D475C1F82D7A6008D61B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		904D475E1F82D7A6008D61B2 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -40,14 +48,7 @@
 		904D47651F82D7A6008D61B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		904D47681F82D7A6008D61B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		904D476A1F82D7A6008D61B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		904D47711F82DBBB008D61B2 /* 38 Special.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "38 Special.jpg"; sourceTree = "<group>"; };
 		904D47721F82DBBB008D61B2 /* 45647127.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 45647127.jpg; sourceTree = "<group>"; };
-		904D47731F82DBBB008D61B2 /* Band Perry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Band Perry.jpg"; sourceTree = "<group>"; };
-		904D47741F82DBBB008D61B2 /* Eagles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Eagles.jpg; sourceTree = "<group>"; };
-		904D47751F82DBBB008D61B2 /* Joe Cocker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Joe Cocker.jpg"; sourceTree = "<group>"; };
-		904D47761F82DBBB008D61B2 /* Journey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Journey.jpg; sourceTree = "<group>"; };
-		904D47771F82DBBB008D61B2 /* Leonard Skynard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Leonard Skynard.jpg"; sourceTree = "<group>"; };
-		904D47781F82DBBB008D61B2 /* Little Big Town.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Little Big Town.jpg"; sourceTree = "<group>"; };
 		904D47791F82DBBB008D61B2 /* logo76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo76.png; sourceTree = "<group>"; };
 		904D477A1F82DBBB008D61B2 /* logo152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo152.png; sourceTree = "<group>"; };
 		904D477B1F82DBBB008D61B2 /* logo291.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo291.png; sourceTree = "<group>"; };
@@ -55,7 +56,6 @@
 		904D477D1F82DBBB008D61B2 /* logo401.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo401.png; sourceTree = "<group>"; };
 		904D477E1F82DBBB008D61B2 /* logo402.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo402.png; sourceTree = "<group>"; };
 		904D477F1F82DBBB008D61B2 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
-		904D47801F82DBBB008D61B2 /* Miranda Lambert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Miranda Lambert.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,9 +69,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0F594CB22165430900F5D2F0 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				0F594CB92165434100F5D2F0 /* AC DC.jpeg */,
+				0F594CB32165434100F5D2F0 /* Def Leppard.jpeg */,
+				0F594CB42165434100F5D2F0 /* Fleetwood Mac.jpeg */,
+				0F594CBA2165434100F5D2F0 /* Journey.jpeg */,
+				0F594CB52165434100F5D2F0 /* Pink Floyd.jpeg */,
+				0F594CB82165434100F5D2F0 /* The Beatles.jpeg */,
+				0F594CB62165434100F5D2F0 /* The Cars.jpeg */,
+				0F594CB72165434100F5D2F0 /* Van Halen.jpeg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		904D47501F82D7A6008D61B2 = {
 			isa = PBXGroup;
 			children = (
+				0F594CB22165430900F5D2F0 /* Images */,
 				904D47701F82DB76008D61B2 /* photos */,
 				904D475B1F82D7A6008D61B2 /* MyBand1 */,
 				904D475A1F82D7A6008D61B2 /* Products */,
@@ -103,14 +119,7 @@
 		904D47701F82DB76008D61B2 /* photos */ = {
 			isa = PBXGroup;
 			children = (
-				904D47711F82DBBB008D61B2 /* 38 Special.jpg */,
 				904D47721F82DBBB008D61B2 /* 45647127.jpg */,
-				904D47731F82DBBB008D61B2 /* Band Perry.jpg */,
-				904D47741F82DBBB008D61B2 /* Eagles.jpg */,
-				904D47751F82DBBB008D61B2 /* Joe Cocker.jpg */,
-				904D47761F82DBBB008D61B2 /* Journey.jpg */,
-				904D47771F82DBBB008D61B2 /* Leonard Skynard.jpg */,
-				904D47781F82DBBB008D61B2 /* Little Big Town.jpg */,
 				904D47791F82DBBB008D61B2 /* logo76.png */,
 				904D477A1F82DBBB008D61B2 /* logo152.png */,
 				904D477B1F82DBBB008D61B2 /* logo291.png */,
@@ -118,7 +127,6 @@
 				904D477D1F82DBBB008D61B2 /* logo401.png */,
 				904D477E1F82DBBB008D61B2 /* logo402.png */,
 				904D477F1F82DBBB008D61B2 /* Main.png */,
-				904D47801F82DBBB008D61B2 /* Miranda Lambert.jpg */,
 			);
 			name = photos;
 			sourceTree = "<group>";
@@ -182,25 +190,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F594CC02165434100F5D2F0 /* The Beatles.jpeg in Resources */,
+				0F594CC12165434100F5D2F0 /* AC DC.jpeg in Resources */,
 				904D478F1F82DBBB008D61B2 /* Main.png in Resources */,
-				904D47841F82DBBB008D61B2 /* Eagles.jpg in Resources */,
 				904D478E1F82DBBB008D61B2 /* logo402.png in Resources */,
-				904D47831F82DBBB008D61B2 /* Band Perry.jpg in Resources */,
-				904D47851F82DBBB008D61B2 /* Joe Cocker.jpg in Resources */,
 				904D478B1F82DBBB008D61B2 /* logo291.png in Resources */,
 				904D478D1F82DBBB008D61B2 /* logo401.png in Resources */,
-				904D47901F82DBBB008D61B2 /* Miranda Lambert.jpg in Resources */,
 				904D478A1F82DBBB008D61B2 /* logo152.png in Resources */,
+				0F594CBD2165434100F5D2F0 /* Pink Floyd.jpeg in Resources */,
 				904D47821F82DBBB008D61B2 /* 45647127.jpg in Resources */,
 				904D47691F82D7A6008D61B2 /* LaunchScreen.storyboard in Resources */,
-				904D47871F82DBBB008D61B2 /* Leonard Skynard.jpg in Resources */,
+				0F594CBC2165434100F5D2F0 /* Fleetwood Mac.jpeg in Resources */,
 				904D478C1F82DBBB008D61B2 /* logo292.png in Resources */,
-				904D47811F82DBBB008D61B2 /* 38 Special.jpg in Resources */,
 				904D47661F82D7A6008D61B2 /* Assets.xcassets in Resources */,
-				904D47881F82DBBB008D61B2 /* Little Big Town.jpg in Resources */,
 				904D47641F82D7A6008D61B2 /* Main.storyboard in Resources */,
-				904D47861F82DBBB008D61B2 /* Journey.jpg in Resources */,
 				904D47891F82DBBB008D61B2 /* logo76.png in Resources */,
+				0F594CBE2165434100F5D2F0 /* The Cars.jpeg in Resources */,
+				0F594CBB2165434100F5D2F0 /* Def Leppard.jpeg in Resources */,
+				0F594CC22165434100F5D2F0 /* Journey.jpeg in Resources */,
+				0F594CBF2165434100F5D2F0 /* Van Halen.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

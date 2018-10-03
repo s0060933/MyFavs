@@ -24,7 +24,7 @@ class MasterViewController: UITableViewController {
 //        let addButton = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(insertNewObject(_:)))
 //        navigationItem.rightBarButtonItem = addButton
 //********3) Add next two lines for array and title
-         listArray = ["Joe Cocker","Leonard Skynard","Eagles","Journey", "38 Special","Miranda Lambert", "Little Big Town","Band Perry"]
+         listArray = ["AC DC","Def Leppard","Fleetwood Mac","Journey","Pink Floyd","The Beatles","The Cars","Van Halen"]
          title = "My Favorite Bands"
         if let split = splitViewController {
             let controllers = split.viewControllers
@@ -58,7 +58,7 @@ class MasterViewController: UITableViewController {
 //********5) Update below 6 lines of code
                 let object = listArray[indexPath.row] as! String
                 let controller = (segue.destination as! UINavigationController).topViewController as! DetailViewController
-                controller.detailItem = (object as String) + ".jpg"
+                controller.detailItem = (object as String) + ".jpeg"
                 controller.navigationItem.leftBarButtonItem = splitViewController?.displayModeButtonItem
                 controller.navigationItem.leftItemsSupplementBackButton = true
                 self.splitViewController?.preferredDisplayMode = .primaryHidden
